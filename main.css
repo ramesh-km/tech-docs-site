@@ -78,7 +78,7 @@ code, pre {
         border-radius: 5px;
     }
     #navbar {
-        background-color: gray;
+      /*background-color: gray; */ /*Issue #1*/
         height: 200px;
         width: 100%;
         overflow: auto;
