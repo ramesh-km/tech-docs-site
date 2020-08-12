@@ -40,7 +40,7 @@ body    {
 }
 
 #navbar > a:hover   {
-    background-color: teal;
+    background-color: lightgreen;
     font-weight: bold;
 }
 
